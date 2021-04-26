@@ -21,3 +21,4 @@ regress logvx loggdp_e loggdp_i logdist us
 restore
 
 regress logvx loggdp_e loggdp_i logdist can us
+display "papa"
